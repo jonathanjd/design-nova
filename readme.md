@@ -82,6 +82,6 @@ Nuestro Diseño es Gratuito - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* HTML5
+* CSS3
+* JavaScript
